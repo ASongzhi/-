@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/Forest/forest0.unity
+  isLoaded: 1
+  isActive: 1
